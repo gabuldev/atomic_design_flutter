@@ -1,6 +1,11 @@
 import 'status.dart';
 
-enum TypeComponent { empty, loading, error, regular }
+enum TypeComponent {
+  empty,
+  loading,
+  error,
+  regular,
+}
 
 extension TypeComponentExt on TypeComponent {
   Status<T> fromStatus<T>() {

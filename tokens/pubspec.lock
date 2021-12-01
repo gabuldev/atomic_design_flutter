@@ -9,7 +9,7 @@ packages:
     source: hosted
     version: "2.8.1"
   atomic_design_flutter:
-    dependency: transitive
+    dependency: "direct main"
     description:
       path: "../atomic_design"
       relative: true
@@ -50,13 +50,6 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.15.0"
-  cupertino_icons:
-    dependency: "direct main"
-    description:
-      name: cupertino_icons
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "1.0.4"
   fake_async:
     dependency: transitive
     description:
@@ -156,13 +149,6 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.4.2"
-  tokens:
-    dependency: "direct main"
-    description:
-      path: "../tokens"
-      relative: true
-    source: path
-    version: "0.0.1"
   typed_data:
     dependency: transitive
     description:

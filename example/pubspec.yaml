@@ -10,8 +10,8 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.2
-  atomic_design_flutter: 
-    path: ../
+  tokens: 
+    path: ../tokens
 
 dev_dependencies:
 

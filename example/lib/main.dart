@@ -1,5 +1,5 @@
-import 'package:example/shared/widgets/atoms/label_widget.dart';
 import 'package:flutter/material.dart';
+import 'package:tokens/tokens.dart';
 
 void main() {
   runApp(const MyApp());
